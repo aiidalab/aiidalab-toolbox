@@ -1,14 +1,21 @@
 # aiidalab-toolbox
 
-![Github Actions Status](https://github.com/orgs/aiidalab/aiidalab-toolbox/workflows/Build/badge.svg)
+![Github Actions Status](https://github.com/aiidalab/aiidalab-toolbox/workflows/Build/badge.svg)
 
-This is a JupyterLab sidbar for AiiDA lab.
-
+This is a JupyterLab sidbar for AiiDA lab. There is a collection of the 
+AiiDA lab base widgets in the sidebar.
 
 
 ## Requirements
 
 * JupyterLab >= 2.0
+
+## Pre installation
+
+
+```bash
+pip install aiidalab-widgets-base
+```
 
 ## Install
 
